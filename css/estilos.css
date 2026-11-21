@@ -28,3 +28,8 @@ footer {
     color: white;
     margin-top: 20px;
 }
+#contacto {
+    background-color: #e8eef5;
+    padding: 15px;
+    border-radius: 8px;
+}
